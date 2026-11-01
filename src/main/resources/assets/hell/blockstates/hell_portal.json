@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "hell:block/hell_portal_ns" },
+    "axis=z": { "model": "hell:block/hell_portal_ew" }
+  }
+}
